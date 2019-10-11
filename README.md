@@ -1,0 +1,2 @@
+# hp_retail_seminar
+2019年10月HPリテール向けセミナー資料
